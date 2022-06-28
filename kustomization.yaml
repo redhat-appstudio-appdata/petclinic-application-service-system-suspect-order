@@ -3,6 +3,7 @@ bases:
 - components/component-sample/base
 - components/component-sample11/base
 - components/component-sample2/base
+- components/component-sample22/base
 kind: Kustomization
 resources:
 - common-storage-pvc.yaml
